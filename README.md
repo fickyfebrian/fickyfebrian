@@ -15,7 +15,7 @@ I’m a passionate Front End Developer with experience in building responsive we
 
 
 ### 💡 Personal Projects
-- [** Qay Burger**](https://github.com/fickyfebrian/qayburger) - A landing page for a small burger business built with React and Tailwind CSS.
+- [**Qay Burger**](https://github.com/fickyfebrian/qayburger) - A landing page for a small burger business built with React and Tailwind CSS.
 - [**Dummy App**](https://github.com/fickyfebrian/dummyapp) - A simple web application project that I created to practice working with APIs. In this project, I utilized an API from dummyjson.com to display data from the provided JSON. The main goal of this project was to enhance my skills in fetching data from external APIs and presenting it in a clean and interactive way within a web application. This project serves as basic practice for understanding how to use the fetch API, manage state, and dynamically display data in a user interface.
 - 
 ### 📊 GitHub Stats
