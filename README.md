@@ -6,6 +6,7 @@ I’m a passionate Front End Developer with experience in building responsive we
 - 💼 Looking for opportunities as a Junior Front End Developer.
 - 🌱 Currently learning advanced React js, Next.js and TypeScript
 - 📫 How to reach me: [**Ficky Febrian**](https://fickyfebrian.netlify.app/) - My cuties website
+- 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/ficky-febrian-410592213/) 
 
 
 ### 💻 Technologies & Tools
