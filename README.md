@@ -22,13 +22,13 @@ I am a passionate Front End Developer with experience in building responsive web
 -  [**Qay Coffee**](https://github.com/fickyfebrian/qaycoffee) -  I developed the QayCoffee project using React, Tailwind, and Vite. In this project, I utilized a JSON file to display the product menu and implemented Swiper.js to create a dynamic carousel. Additionally, I used the API from https://fake-coffee-api.vercel.app/ to load product data, performing debugging and testing to ensure the website works optimally across different devices. [View Result](https://qaycoffee.netlify.app/)
 
 ### 🎓 Certifications
-Belajar Dasar AI - Dicoding. [View Certificate](https://www.dicoding.com/certificates/07Z64L77MPQR)
-Belajar Dasar Pemrograman Javascript - Dicoding. [View Certificate](https://www.dicoding.com/certificates/JMZV3Y3RQPN9)
-Belajar Dasar Pemrograman Web - Dicoding. [View Certificate](https://www.dicoding.com/certificates/07Z60NR1RZQR)
-Belajar Membuat Aplikasi Web dengan React - Dicoding. [View Certificate](https://www.dicoding.com/certificates/N9ZOYDMKDPG5)
-Belajar Membuat Front-End Web untuk Pemula - Dicoding. [View Certificate](https://www.dicoding.com/certificates/6RPNYK4LRZ2M)
-Introduction to HTML - Sololearn
-React + Redux - Sololearn
+- Belajar Dasar AI - Dicoding. [View Certificate](https://www.dicoding.com/certificates/07Z64L77MPQR)
+- Belajar Dasar Pemrograman Javascript - Dicoding. [View Certificate](https://www.dicoding.com/certificates/JMZV3Y3RQPN9)
+- Belajar Dasar Pemrograman Web - Dicoding. [View Certificate](https://www.dicoding.com/certificates/07Z60NR1RZQR)
+- Belajar Membuat Aplikasi Web dengan React - Dicoding. [View Certificate](https://www.dicoding.com/certificates/N9ZOYDMKDPG5)
+- Belajar Membuat Front-End Web untuk Pemula - Dicoding. [View Certificate](https://www.dicoding.com/certificates/6RPNYK4LRZ2M)
+- Introduction to HTML - Sololearn
+-  React + Redux - Sololearn
 
 ### 📊 GitHub Stats
 ![Fickyfebrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=fickyfebrian&show_icons=true&theme=radical)
