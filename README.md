@@ -7,7 +7,7 @@ I am a passionate Front End Developer with experience in building responsive web
 - 🌱 Currently learning advanced React js, Next.js and TypeScript
 - 📫 How to reach me: [**Ficky Febrian**](https://fickyfebrian.netlify.app/) - My cuties website
 - 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/ficky-febrian-410592213/)
-- ✉️ Connect with me on [**Email**](febrianficky0302@gmail.com) : febrianficky0302@gmail.com
+- ✉️ Connect with me on [**Email**]: febrianficky0302@gmail.com
 
 
 ### 💻 Technologies & Tools
