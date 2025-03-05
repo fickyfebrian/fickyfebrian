@@ -1,12 +1,12 @@
 # Hi there, Im Ficky Febrian 👋
 
 ### 🚀 About Me
-I am a passionate Front End Developer with experience in building responsive web applications using React, Tailwind CSS, and other modern web technologies. Currently, I am a 5th-semester Informatics Engineering student at Universitas Sangga Buana YPKP Bandung, taking evening classes. I am proficient in HTML, CSS, JavaScript, React.js, Tailwind CSS, and Vite. I have experience with PHP and Laravel. I am eager to enhance my skills through internships or apprenticeships, particularly in React development. Additionally, I hold a React Developer certificate from Dicoding.
+I am a passionate Front End Developer with experience in building responsive web applications using React, Tailwind CSS, and other modern web technologies. Currently, I am a 6th-semester Informatics Engineering student at Universitas Sangga Buana YPKP Bandung, taking evening classes. I am proficient in HTML, CSS, JavaScript, React.js, Tailwind CSS, and Vite. I have experience with PHP and Laravel. I am eager to enhance my skills through internships or apprenticeships, particularly in React development. Additionally, I hold a React Developer certificate from Dicoding.
 
 - 💼 Looking for opportunities as a Junior Front End Developer.
 - 🌱 Currently learning advanced React js, Next.js and TypeScript
 - 📫 How to reach me: [**Ficky Febrian**](https://fickyfebrian.netlify.app/) - My cuties website
-- 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/ficky-febrian-410592213/)
+- 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/fickyfebrian/)
 - ✉️ Connect with me on [**Email**]: febrianficky0302@gmail.com
 
 
